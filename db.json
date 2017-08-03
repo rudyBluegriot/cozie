@@ -1,14 +1,7 @@
 {
-"numeroLot" : "0117350001",
-"id" : "PV0001",
-"decriptor" : "Poche crème hydratante - 1 kg",
-"dateLimit" : "20082017",
-"prixConseillé" : "3"
-},
-{
-"numeroLot" : "0117350001",
-"id" : "PV0001",
-"decriptor" : "Poche crème hydratante - 1 kg",
-"dateLimit" : "20082017",
-"prixConseillé" : "3"
+   "numeroLot":"0117350001",
+   "id":"PV0001",
+   "decriptor":"Poche crème hydratante - 1 kg",
+   "dateLimit":"20082017",
+   "prixConseillé":"3"
 }
